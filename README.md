@@ -1,1 +1,1 @@
-Learning React-Redux by modeling Tinder
+Learning React-Redux by modeling a simple book list
